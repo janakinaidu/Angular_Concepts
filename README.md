@@ -35,3 +35,9 @@ Node.js v17.3.0
           We Can install node 16...version to resolve this issue:
           https://nodejs.org/download/release/latest-gallium/
           For windows 64 bit download this file: node-v16.13.2-x64.msi 
+
+********
+Before Going to Learn directly to Angular2,its my advice to learn some basics of Javascript
+I would recomend these two links are more helpful which i found on youtube.
+https://www.youtube.com/watch?v=dOnAC2Rr-6A  <br>
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
